@@ -12,4 +12,5 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 - [[the-machine-view|机器的Matrix]]
 - [[脚踏实地]]
 - [[Obsidian#^e02227|Obsidian脚注语法]]
+- [[JavaScript 技术栈的一些思考]]
 
